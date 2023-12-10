@@ -1,0 +1,28 @@
+#submit_button
+{
+    margin-top:20px;
+    margin-bottom: 20px;
+    width:100px;
+    height: 20px;
+}
+#sort_button
+{
+    display:none;
+    margin-top: 20px;
+    margin-bottom:20px;
+    width:100px;
+    height: 20px;
+}
+input{
+    margin: 10px;
+    width:400px;
+    height:50px;
+}
+body {
+    background: linear-gradient(to right,#ffc2d1,#ffc2d1, #B2FBA5,#B2FBA5);
+    /* Add more styles as needed */
+}
+h3{
+ font-size: 50px;
+
+}
